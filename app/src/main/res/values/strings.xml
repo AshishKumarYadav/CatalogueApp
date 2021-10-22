@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KawaSpace</string>
+    <string name="open">opened</string>
+    <string name="close">closed</string>
+</resources>
