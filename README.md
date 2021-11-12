@@ -1,4 +1,4 @@
-# KawaSpace
+# CatalogueApp
 It's an app to get the list of people using API and list as cards. There would also be a carousel at the top, whose active slide represents the selected card/highlighted user.
 The user can -
 On tap of any card in the list, The carousel’s active slide will change to the one with the tapped card’s user’s details. Scroll to the top to see the active slide.
